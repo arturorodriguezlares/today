@@ -24,7 +24,7 @@ pipeline {
                 input message: 'Finished using the web site ok? (Click "Proceed" to continue) '
             }
         }
-/        stage('Deliver') {
+//        stage('Deliver') {
 //            steps {
 //                sh './jenkins/scripts/deliver.sh'
 //                input message: 'Finished using the web site ok? (Click "Proceed" to continue) '
