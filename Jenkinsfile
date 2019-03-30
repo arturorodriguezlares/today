@@ -30,6 +30,6 @@ pipeline {
 //                input message: 'Finished using the web site ok? (Click "Proceed" to continue) '
 //                sh './jenkins/scripts/kill.sh'
 //            }
-        }
+//        }
     }
 }
